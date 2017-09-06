@@ -1,0 +1,15 @@
+{
+    "dbConnection": {
+        "client": "mysql",
+        "debug": false,
+        "connection": {
+            "host": "localhost",
+            "user": "root",
+            "password": "mysql",
+            "database": "form_builder"
+        }
+    },
+    "queryDebug": false,
+    "logFile": "/tmp/form_builder/personnelActionForm.log",
+    "port": 7075
+}
